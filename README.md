@@ -1,2 +1,2 @@
 # ezhevenko
-ttt
+init
